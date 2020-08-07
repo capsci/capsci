@@ -1,16 +1,12 @@
-### Hi there 👋
+######
+<img src="https://github-readme-stats.vercel.app/api?username=capsci&count_private=true&show_icons=true&theme=gotham&layout=compact"/>
 
-<!--
-**capsci/capsci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+######
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=capsci&count_private=true&show_icons=true&theme=gotham&layout=compact"/>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Repo
+<div>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=capsci&repo=gurukul-2.0&theme=gotham&layout=compact" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=capsci&repo=Social-Studio&theme=gotham&layout=compact" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=capsci&repo=senti_twitter&theme=gotham&layout=compact" />
+</div>
